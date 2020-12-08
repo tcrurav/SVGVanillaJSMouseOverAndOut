@@ -4,6 +4,8 @@ It's just that...
 
 ![alt text](https://github.com/tcrurav/SVGVanillaJSMouseOverAndOut/blob/master/img/giphy.gif)
 
+You can also check the live demo of this project in github pages: https://tcrurav.github.io/SVGVanillaJSMouseOverAndOut/
+
 ### Prerequisites
 
 Before starting you need some background on JavaScript basics. Check the links bellow.
